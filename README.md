@@ -6,7 +6,7 @@
 - 🔭<samp> I'm currently working at [PayPal](https://www.PayPal.com/) as Software Engineer
 - 👀<samp> I’m interested in developing and maintaining services at Scale.
 - 💞️<samp> I’m looking to collaborate on Open Source
-- 😄<samp> Pronouns: He/His.
+- 😄<samp> Pronouns: He/Him.
 
 ##
 <h4><b><samp>Programming Languages</samp></b></h4>
