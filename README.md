@@ -1,6 +1,7 @@
 <p align="center"><samp><b> Hey there! 👋 </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Nithish Kumar </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Student </samp></h4></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nithish-kumar-t&style=flat" alt="thecoderenroute" /> </p>
 </br>
 
 - :student: <samp>  Currently pursuing masters in CS at UIC.
