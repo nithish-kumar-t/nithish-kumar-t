@@ -1,4 +1,4 @@
-<p align="center"><samp><b> <h1 align="center"> <samp> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </samp> </h1> </b></samp></p>
+<p align="center"><h1 align="Left"> <samp> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </samp> </h1> </p>
 <p align="left"><h4 align="left"><samp> I'm Nithish, a passionate Backend Engineer with expertise in Java, Go. Currently pursuing my master's in Computer Science. I love building scalable and efficient systems that power modern applications. </samp></h4></p>
 
 ## 
