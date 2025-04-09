@@ -1,10 +1,9 @@
 <p align="center"><samp><b> Hey there! 👋 </b></samp></p>
 <p align="left"><h4 align="left"><samp> I'm Nithish, a passionate Backend Engineer with expertise in Java, Go. Currently pursuing my master's in Computer Science. I love building scalable and efficient systems that power modern applications. </samp></h4></p>
 
-##
+## 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nithish-kumar-t&style=flat" alt="thecoderenroute" /> </p>
-</br>
 
 <!--
 <p align="center"><h4 align="center"><samp> A Student </samp></h4></p>
