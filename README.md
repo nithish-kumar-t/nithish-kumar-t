@@ -1,8 +1,15 @@
 <p align="center"><samp><b> Hey there! 👋 </b></samp></p>
-<p align="center"><h1 align="center"><samp> I am Nithish Kumar </samp></h1></p>
-<p align="center"><h4 align="center"><samp> A Student </samp></h4></p>
+<p align="left"><h4 align="left"><samp> I'm Nithish, a passionate Backend Engineer with expertise in Java, Go. Currently pursuing my master's in Computer Science. I love building scalable and efficient systems that power modern applications. </samp></h4></p>
+
+##
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nithish-kumar-t&style=flat" alt="thecoderenroute" /> </p>
 </br>
+
+<!--
+<p align="center"><h4 align="center"><samp> A Student </samp></h4></p>
+### Welcome to my GitHub profile! 👋 
+-->
 
 
 
@@ -14,7 +21,6 @@
 - 😄<samp> Pronouns: He/Him.
 -->
 
-
 ### 🌱 Current Focus
 - Currently pursuing masters in CS at UIC
 - Previously worked as Backend Engineer at PayPal and VMWare
@@ -22,6 +28,8 @@
 - Exploring new technologies and tools to enhance my skills
 - Looking to collaborate on Open Source
 - Pronouns: He/Him.
+
+##
 
 <!--- - 🔭<samp> I'm currently working at [PayPal](https://www.PayPal.com/) as Software Engineer --->
 
